@@ -1,9 +1,11 @@
+import Main from "./components/Main/Main";
 import Sidebar from "./components/SideSection/Sidebar";
 
 function App() {
   return (
-    <div>
+    <div className="root">
       <Sidebar/>
+      <Main/>
     </div>
   );
 }

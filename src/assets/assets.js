@@ -11,6 +11,9 @@ import question from "./question.png";
 import recent from "./recent.png";
 import serch from "./serch.png";
 import setting from "./setting.png";
+import bot from "./chatbot.gif";
+import user from "./user.png";
+import coding_bot from "./coding.gif";
 
 export const assets ={
     bulb,
@@ -26,5 +29,8 @@ export const assets ={
     recent,
     serch,
     setting,
+    bot,
+    user,
+    coding_bot,
     
 }
